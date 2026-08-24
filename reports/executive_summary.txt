@@ -1,0 +1,11 @@
+
+RETAIL ANALYTICS EXECUTIVE SUMMARY
+==================================
+
+Total Revenue   : 97964283.0
+
+Total Orders    : 5000
+
+Total Customers : 1000
+
+Total Returns   : 55
